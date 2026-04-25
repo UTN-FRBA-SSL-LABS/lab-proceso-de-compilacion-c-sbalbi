@@ -816,14 +816,7 @@ Salida esperada (simplificada):
 
 **P10.** Ejecutá `nm programa.o` y copiá la salida completa.
 
-> **R:** U area_circulo
-                 U factorial
-0000000000000169 T imprimir_separador
-0000000000000000 B llamadas
-0000000000000027 T main
-                 U printf
-                 U puts
-0000000000000000 T sumar
+> **R:** U area_circulo U factorial 0000000000000169 T imprimir_separador 0000000000000000 B llamadas 0000000000000027 T main U printf U puts 0000000000000000 T sumar
 
 ¿Con qué letra aparece `area_circulo` en esa tabla?
 Escribí solo la letra (una mayúscula):
