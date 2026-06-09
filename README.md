@@ -296,6 +296,7 @@ Durante la compilación, el compilador sólo necesita saber la **declaración** 
 
 ---
 
+
 ## Etapa 1: Preprocesamiento
 
 ### Concepto teórico
